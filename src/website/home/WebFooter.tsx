@@ -65,12 +65,12 @@ const WebFooter = () => {
             Recruitment
           </Typography>
 
-          <Typography
+          {/* <Typography
             sx={{ cursor: "pointer", mb: 1 }}
             onClick={() => navigate("/contact")}
           >
             Find a Job
-          </Typography>
+          </Typography> */}
           <Typography
             sx={{ cursor: "pointer", mb: 1 }}
             onClick={() => navigate("/contact")}

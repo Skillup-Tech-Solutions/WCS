@@ -25,7 +25,7 @@ const WebNavbar = () => {
     { label: "Home", path: "/" },
     { label: "About us", path: "/about" },
     { label: "Clients", path: "/client" }, 
-    { label: "Find a Job", path: "/job" },
+    // { label: "Find a Job", path: "/job" },
     { label: "Contact us", path: "/contact" },
   ];
 

@@ -26,10 +26,10 @@ const routes = createHashRouter([
         path: "/contact",
         element: <WebContact />,
       },
-      {
-        path: "/job",
-        element: <WebJob />,
-      },
+      // {
+      //   path: "/job",
+      //   element: <WebJob />,
+      // },
       {
         path: "/plans",
         element: <WebSub />,

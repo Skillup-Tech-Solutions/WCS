@@ -106,7 +106,7 @@ const WebBanner = () => {
             sx={{
               mt: "15px !important",
               fontSize: { xs: "14px", md: "18px" },
-              maxWidth: "400px",
+              // maxWidth: "400px",
               opacity: 0.9,
               fontFamily: "Regular_M",
               color: "var(--white)",

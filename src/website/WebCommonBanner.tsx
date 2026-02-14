@@ -7,7 +7,7 @@ const pageTitles: Record<string, string> = {
   "/about": "About Us",
   "/contact": "Contact Us",
   "/services": "Our Services",
-  "/job": "Find a Job",
+  // "/job": "Find a Job",
   "/outsourcing": "Outsourcing",
   "/recruitment": "Recruitment",
 };
